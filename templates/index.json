@@ -251,10 +251,6 @@
     "featured_product_izPxPf": {
       "type": "featured-product",
       "blocks": {
-        "vendor_RzEntx": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_zAUPDC": {
           "type": "title",
           "settings": {
@@ -318,7 +314,6 @@
         }
       },
       "block_order": [
-        "vendor_RzEntx",
         "title_zAUPDC",
         "badges_cNwniJ",
         "price_8yY6Di",
