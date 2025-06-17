@@ -18,6 +18,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Ajouter_un_sous-titre.png",
+        "mobile_image": "shopify://shop_images/Rides_visibles_Attenuees_en_7_jours._Naturellement..png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
