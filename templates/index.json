@@ -154,7 +154,7 @@
             "column_size": "3",
             "title": "Nadia, 47 ans",
             "heading_tag": "h4",
-            "content": "<p><br/>“Ma peau me brûlait, surtout l’hiver. Aujourd’hui elle est douce, calme, apaisée. ForceSkin a tout changé pour moi.”<br/><br/></p>",
+            "content": "<p>Ma peau me brûlait, surtout l’hiver. Aujourd’hui elle est douce, calme, apaisée. ForceSkin a tout changé pour moi.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -163,10 +163,11 @@
         "item_cxiXJQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avant_1.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sophie, 44 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je me trouvais fade dans le miroir… Là, ma peau est claire, lumineuse, même sans maquillage. C’est bluffant.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
