@@ -202,10 +202,11 @@
         "item_fCxxni": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avant_4.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julie, 58 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je ne me reconnaissais plus. Aujourd’hui, mon visage est reposé, lumineux, et je me sens mieux dans ma peau.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -214,10 +215,11 @@
         "item_4qqW3x": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avant_5.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Nora, 61 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je voyais mon visage s'affaisser, surtout au niveau du cou. ForceSkin a redessiné mes traits en douceur.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
