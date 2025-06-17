@@ -279,10 +279,12 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 3 unités disponibles !</div>\n</div>"
           }
         },
-        "rating_Da7Can": {
-          "type": "rating",
+        "image_QpeEyR": {
+          "type": "image",
           "settings": {
-            "show_empty": false
+            "image": "shopify://shop_images/Flash_Sale_1.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "description_Kb9UBA": {
@@ -301,16 +303,12 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_6DpjVU": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_dRyLP7": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#f0c417",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -327,10 +325,9 @@
         "badges_cNwniJ",
         "price_8yY6Di",
         "liquid_tBLEPc",
-        "rating_Da7Can",
+        "image_QpeEyR",
         "description_Kb9UBA",
         "variant_picker_ryV9Qm",
-        "quantity_selector_6DpjVU",
         "buy_buttons_dRyLP7",
         "pickup_availability_r6HMQq"
       ],
