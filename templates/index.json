@@ -314,6 +314,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_URtLeL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flash_Sale_3.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "pickup_availability_r6HMQq": {
           "type": "pickup_availability",
           "settings": {}
@@ -329,6 +337,7 @@
         "description_Kb9UBA",
         "variant_picker_ryV9Qm",
         "buy_buttons_dRyLP7",
+        "image_URtLeL",
         "pickup_availability_r6HMQq"
       ],
       "name": "Featured product",
