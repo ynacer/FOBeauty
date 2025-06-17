@@ -358,6 +358,71 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_E6TB3K": {
+      "type": "tabs",
+      "blocks": {
+        "tab_GXRjzK": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment l'appliquer ?",
+            "content": "<p>Pour une application optimale, commencez par nettoyer votre visage avec un nettoyant doux. Appliquez une petite quantité de baume sur votre visage et massez délicatement en mouvements circulaires jusqu'à absorption complète. Utilisez-le matin et soir pour des résultats visibles. Il est idéal pour les peaux sèches, déshydratées ou en manque d'élasticité.</p>",
+            "page": ""
+          }
+        },
+        "tab_UV9fR6": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<p>ForceSkin puise sa force dans une <strong>formule minimaliste mais ultra-efficace</strong>, composée uniquement d’ingrédients naturels, sélectionnés pour leurs vertus exceptionnelles sur la peau.<br/><br/>Le <strong>suif de bœuf grass-fed</strong> (nourri à l’herbe) est une source ancestrale de lipides réparateurs, reconnu pour <strong>raffermir et nourrir en profondeur</strong>. Il est associé à la <strong>cire d’abeille</strong>, qui protège la barrière cutanée, et à l’<strong>extrait de miel</strong>, pour ses propriétés <strong>apaisantes et régénérantes</strong>.<br/><br/>La <strong>vitamine E</strong>, puissant antioxydant, aide à <strong>prévenir le vieillissement cutané</strong>, tandis que l’<strong>huile d’olive</strong> adoucit, hydrate et donne à la peau <strong>souplesse et éclat naturel</strong>.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_nUTcFx": {
+          "type": "tab",
+          "settings": {
+            "title": "Satisfait ou remboursé - Garantie 100%",
+            "content": "<p>Nous sommes confiants dans la qualité de notre produit. Si, pour une raison quelconque, vous n'êtes pas satisfait, contactez-nous dans les 30 jours suivant l'achat et nous procéderons à un remboursement complet, sans poser de questions. Votre satisfaction est notre priorité !</p>",
+            "page": ""
+          }
+        },
+        "tab_JCBy7g": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>Profitez de la <strong>livraison 100% gratuite</strong>, directement chez vous, sans minimum d'achat ! Votre commande sera expédiée sous <strong>24h</strong> et livrée sous <strong>5 à 10 jours</strong>, où que vous soyez.</p><p>✔ <strong>Rapide et sécurisée</strong> – Expédition sous 24h<br/>✔ <strong>Sans frais cachés</strong> – Vous ne payez que votre produit<br/>✔ <strong>Suivi de commande en temps réel</strong> – Restez informé(e) à chaque étape</p>",
+            "page": ""
+          }
+        },
+        "tab_fktxXG": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est disponible 7 jours sur 7 pour répondre à toutes vos questions. Que vous ayez besoin d'aide pour l'application de votre produit ou pour toute autre demande, notre équipe est prête à vous assister. Contactez-nous par email, chat ou téléphone, nous serons ravis de vous aider !</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_GXRjzK",
+        "tab_UV9fR6",
+        "tab_nUTcFx",
+        "tab_JCBy7g",
+        "tab_fktxXG"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -367,6 +432,7 @@
     "rich_text_kEHWRi",
     "video_n96irk",
     "multi_column_TbDXFa",
-    "featured_product_izPxPf"
+    "featured_product_izPxPf",
+    "tabs_E6TB3K"
   ]
 }
