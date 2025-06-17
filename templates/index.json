@@ -176,10 +176,11 @@
         "item_QBfinm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Avant_2.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Yamina, 53 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mes rides me donnaient l’air triste. Après 2 semaines de ForceSkin, mon visage s’est retendu naturellement.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
