@@ -139,11 +139,28 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "image_with_text_overlay_cgCiWq": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_Copie_de_Template_section_benefice_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "image_with_text_overlay_nbV7xy",
     "logo_list_L43EET",
-    "faq"
+    "faq",
+    "image_with_text_overlay_cgCiWq"
   ]
 }
