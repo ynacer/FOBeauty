@@ -104,46 +104,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_kEHWRi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_8JpT8M": {
-          "type": "heading",
-          "settings": {
-            "text": "Transformation Instantanée : Le Baume Anti-Âge ForceSkin en Action",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_8JpT8M"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_n96irk": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "multi_column_TbDXFa": {
       "type": "multi-column",
       "blocks": {
@@ -513,17 +473,175 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "rich_text_kEHWRi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8JpT8M": {
+          "type": "heading",
+          "settings": {
+            "text": "Transformation Instantanée : Le Baume Anti-Âge ForceSkin en Action",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_8JpT8M"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_n96irk": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "faq_WMbQdi": {
+      "type": "faq",
+      "blocks": {
+        "item_JwRFbV": {
+          "type": "item",
+          "settings": {
+            "title": "Comment dois-je appliquer le Baume  ForceSkin ?",
+            "content": "<p>Pour de meilleurs résultats, appliquez une petite quantité de baume sur le visage propre et sec, puis massez doucement jusqu'à absorption complète. Utilisez-le le matin et/ou le soir, selon vos besoins.</p>"
+          }
+        },
+        "item_VaEfFi": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce que le Baume ForceSkin",
+            "content": "<p>Le Baume ForceSkin est un soin naturel et puissant formulé pour répondre aux besoins spécifiques de la peau féminine. Grâce à des ingrédients nobles comme le suif de bœuf grass-fed, la cire d’abeille, la propolis, le miel, l’huile d’olive et la vitamine E, il aide à <strong>raffermir la peau, atténuer les rides et redonner de l’éclat au teint</strong>. Sa texture fondante pénètre rapidement sans laisser de film gras. Il est idéal pour les femmes qui veulent une peau <strong>plus lisse, plus ferme et visiblement rajeunie</strong>, sans compromis.</p>"
+          }
+        },
+        "item_eXt7Pm": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faut-il pour voir des résultats visibles ?",
+            "content": "<p>Les résultats peuvent varier selon les individus, mais de nombreux utilisateurs commencent à remarquer des améliorations après environ 3 à 4 semaines d'utilisation régulière. Pour des résultats optimaux, il est recommandé de l'utiliser quotidiennement pendant plusieurs mois.<br/></p>"
+          }
+        },
+        "item_VxbhVX": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les principaux bénéfices du Baume ForceSkin ?",
+            "content": "<p>Ce baume cible la réduction des rides et ridules, améliore l'élasticité de la peau, hydrate en profondeur et crée une barrière protectrice contre les agressions extérieures, tout en laissant la peau douce et lisse.</p>"
+          }
+        },
+        "item_YpAPAF": {
+          "type": "item",
+          "settings": {
+            "title": "À quel âge devrais-je commencer à utiliser le Baume  ForceSkin ?",
+            "content": "<p>Idéalement, il est recommandé de commencer à utiliser des soins anti-âge dès la trentaine, lorsque la peau commence à montrer des signes de vieillissement. Cependant, il est toujours bénéfique de commencer plus tôt pour prévenir l'apparition des rides et pour maintenir une peau saine.</p>"
+          }
+        },
+        "item_FeAXKz": {
+          "type": "item",
+          "settings": {
+            "title": "Le Baume est-il adapté aux peaux sensibles ?",
+            "content": "<p>Oui, grâce à sa formule douce et naturelle, le Baume  ForceSkin est adapté aux peaux sensibles. Il ne contient pas de produits chimiques agressifs et est conçu pour être non irritant.</p>"
+          }
+        },
+        "item_LJRgtc": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser ce produit avec d'autres soins de la peau ?",
+            "content": "<p>Oui, le Baume Anti-Âge ForceSkin peut être utilisé en complément d'autres soins de la peau. Il est conseillé de l'appliquer après votre routine de nettoyage, et avant toute crème hydratante ou écran solaire.</p>"
+          }
+        },
+        "item_bYzRUp": {
+          "type": "item",
+          "settings": {
+            "title": "Quelles sont les garanties proposées si je ne suis pas satisfait du produit ?",
+            "content": "<p>Nous offrons une garantie de satisfaction à 100%. Si vous n'êtes pas satisfait du produit, vous pouvez le retourner sous 30 jours pour un remboursement complet ou un échange, sans poser de questions.<br/><br/></p>"
+          }
+        },
+        "item_xJE7Tn": {
+          "type": "item",
+          "settings": {
+            "title": "Est-elle adapté à tous les types de peau ?",
+            "content": "<p>Oui, elle est formulée avec des ingrédients doux et apaisants, reconnus pour leur tolérance sur tous les types de peau et conditions cutanées.<br/><br/></p>"
+          }
+        },
+        "item_KKRifB": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l’utiliser sur une peau sensible ?",
+            "content": "<p>Oui, les ingrédients de la <strong>Crème Anti-Age ForceSkin® </strong>sont spécialement sélectionnés pour leurs propriétés douces, ce qui le rend parfaitement adapté aux peaux sensibles.<br/></p>"
+          }
+        },
+        "item_xhVq4B": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Pour les commandes en France, la livraison est estimée entre 2 et 5 jours ouvrés.</p><p>Pour les livraisons à l’étranger (hors France), comptez entre 3 et 6 jours ouvrés.</p><p>Vous recevrez un e-mail de confirmation avec les détails et le suivi de votre commande dès qu’elle sera expédiée.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_JwRFbV",
+        "item_VaEfFi",
+        "item_eXt7Pm",
+        "item_VxbhVX",
+        "item_YpAPAF",
+        "item_FeAXKz",
+        "item_LJRgtc",
+        "item_bYzRUp",
+        "item_xJE7Tn",
+        "item_KKRifB",
+        "item_xhVq4B"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
     "image_with_text_overlay_nbV7xy",
     "logo_list_L43EET",
     "image_with_text_overlay_cgCiWq",
-    "rich_text_kEHWRi",
-    "video_n96irk",
     "multi_column_TbDXFa",
     "featured_product_izPxPf",
     "tabs_E6TB3K",
-    "multi_column_iaKTzg"
+    "multi_column_iaKTzg",
+    "rich_text_kEHWRi",
+    "video_n96irk",
+    "faq_WMbQdi"
   ]
 }
