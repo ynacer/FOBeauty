@@ -443,10 +443,11 @@
         "item_RPQzBi": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_5.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Cire d’abeille",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>La cire d’abeille</strong> est un ingrédient naturel aux propriétés protectrices et apaisantes. Elle forme une barrière légère sur la peau qui aide à <strong>retenir l’hydratation</strong> tout en la laissant respirer. Riche en vitamine A, elle favorise le renouvellement cellulaire et <strong>calme les irritations</strong>. Elle est idéale pour <strong>protéger la peau du dessèchement</strong>, la rendre plus souple et renforcer sa résistance face aux agressions extérieures.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -455,10 +456,11 @@
         "item_6xEcPa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_6.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Propolis",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>La propolis</strong> est une résine naturelle produite par les abeilles pour protéger la ruche. Riche en antioxydants, en flavonoïdes et en acides phénoliques, elle possède des <strong>propriétés purifiantes, réparatrices et anti-inflammatoires</strong>. Appliquée sur la peau, la propolis aide à <strong>calmer les irritations, réduire les rougeurs</strong> et favoriser la <strong>régénération des tissus</strong>. C’est un ingrédient précieux pour retrouver une peau <strong>claire, apaisée et renforcée</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
