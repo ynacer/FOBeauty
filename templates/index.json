@@ -255,12 +255,6 @@
             "max_width": 500
           }
         },
-        "description_Kb9UBA": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant_picker_ryV9Qm": {
           "type": "variant_picker",
           "settings": {
@@ -290,6 +284,12 @@
             "max_width": 500
           }
         },
+        "description_Kb9UBA": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
         "liquid_P8nyUN": {
           "type": "liquid",
           "settings": {
@@ -309,10 +309,10 @@
         "liquid_tBLEPc",
         "image_QpeEyR",
         "image_krqn3N",
-        "description_Kb9UBA",
         "variant_picker_ryV9Qm",
         "buy_buttons_dRyLP7",
         "image_URtLeL",
+        "description_Kb9UBA",
         "liquid_P8nyUN",
         "pickup_availability_r6HMQq"
       ],
