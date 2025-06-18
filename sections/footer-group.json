@@ -88,15 +88,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
@@ -104,19 +95,18 @@
             "show_menu_title": true
           }
         },
-        "text": {
+        "text_JNqfPw": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Nous contacter",
+            "content": "<p><strong>Service client : </strong>contact@forceskin.shop</p><p><strong>Horaires : </strong>Du Lun au Ven de 8h à 13h et de 14h à 20h / Sam et Dim de 10h à 16h</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
-        "newsletter",
         "links",
-        "text"
+        "text_JNqfPw"
       ],
       "settings": {
         "show_social_media": true,
