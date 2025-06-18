@@ -247,6 +247,14 @@
             "max_width": 500
           }
         },
+        "image_krqn3N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flash_Sale_4.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "description_Kb9UBA": {
           "type": "description",
           "settings": {
@@ -294,6 +302,7 @@
         "price_8yY6Di",
         "liquid_tBLEPc",
         "image_QpeEyR",
+        "image_krqn3N",
         "description_Kb9UBA",
         "variant_picker_ryV9Qm",
         "buy_buttons_dRyLP7",
