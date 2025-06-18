@@ -469,10 +469,11 @@
         "item_DfwRd3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_7.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Vitamine E",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>La vitamine E, un puissant antioxydant, protège la peau contre les radicaux libres générés par les rayons UV et la pollution. Elle hydrate la peau, apaise les inflammations, accélère la cicatrisation des blessures et améliore la texture de la peau, la rendant plus uniforme et douce.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -481,10 +482,11 @@
         "item_b7UBgT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_8.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Huile d’olive",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>L’huile d’olive</strong> est un trésor naturel riche en acides gras essentiels et en antioxydants, notamment en vitamine E et en polyphénols. Elle pénètre facilement la peau pour <strong>nourrir en profondeur, adoucir et protéger</strong> contre le vieillissement prématuré. Grâce à ses propriétés émollientes et anti-inflammatoires, elle aide à <strong>réparer les peaux sèches, calmer les irritations</strong> et restaurer l’éclat naturel du teint. Résultat : une peau <strong>souple, lumineuse et parfaitement hydratée</strong>.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
